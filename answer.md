@@ -21,7 +21,7 @@
 <br>
 之後開始製作主線上的a.txt檔，輸入內容後加入資料變動(git add a.txt)並提交資料(git commit)，最後將完成的更新推送至自己的Github倉庫(git push)。
 <br>
-隨後在主線上製作一個分支testdiv(git branch testdev)，切換至分支(git checkout testdev)並在其中建立b.txt的檔案，並且做與上述相同的動作，推送完成後切換回主線(git checkout main)。
+隨後在主線上製作一個分支testdev(git branch testdev)，切換至分支(git checkout testdev)並在其中建立b.txt的檔案，並且做與上述相同的動作，推送完成後切換回主線(git checkout main)。
 <br>
 在主線上建立同名為b.txt的檔案，除了與上述所輸入的內容不同外，其餘相同且完成推送(git push)。
 <br>
